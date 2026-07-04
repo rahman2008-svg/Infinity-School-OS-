@@ -1,0 +1,6 @@
+{
+  "name": "Infinity School OS",
+  "description": "Infinity School OS - Smart School Management & Attendance System with digital register, attendance grids, and student management up to 500 students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
